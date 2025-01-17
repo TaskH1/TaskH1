@@ -1,9 +1,9 @@
-- 👋 Hi, I’m Tasuku from Japan
-- 👀 I’m interested in Backend Development, Machine Learning, Data Science.
-- 🌱 I’m currently learning Python, Machine Learning, Data Science, PostgreSQL
+- 👋 Hi, I’m Tasuku from Japan, currently working as software developer 
+I am uisng java for my work, and am interested in Machine learning and data science.
 
-バックエンド開発、機械学習、データサイエンスンスに興味があり、現在学習しています。
-英語が好きで、将来的にも英語力を活かして仕事したいという夢があります！
+javaの開発エンジニアをしております。タスクと申します。
+機械学習、データサイエンスンスに興味があり、現在学習しています。
+英語が好きで、将来はグローバルに活躍できるエンジニアを目指しています！
 
 
 [![My Skills](https://skillicons.dev/icons?i=django,python,java,spring,postgres,html,css,sklearn,tensorflow)](https://skillicons.dev)
