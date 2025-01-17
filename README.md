@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Tasuku from Japan, currently working as software developer 
-I am uisng java for my work, and am interested in Machine learning and data science.
+- 👋 Hi, I’m Tasuku from Japan, currently working as a software developer.
+- I am uisng java for my work, and interested in Machine learning and data science.
 
 javaの開発エンジニアをしております。タスクと申します。
 機械学習、データサイエンスンスに興味があり、現在学習しています。
